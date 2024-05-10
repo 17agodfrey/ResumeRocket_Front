@@ -10,7 +10,7 @@
 <tr>
 <th>
 
-![Profile photo of Austin Godfrey](https://media.licdn.com/dms/image/D5603AQGvro0Azlui9Q/profile-displayphoto-shrink_800_800/0/1674063685666?e=1715817600&v=beta&t=504GKScJKm2l-UeexyZqQgFVn_FgSptg689RylKYtFI){width="160" height="160"}
+<img src="https://media.licdn.com/dms/image/D5603AQGvro0Azlui9Q/profile-displayphoto-shrink_800_800/0/1674063685666?e=1715817600&v=beta&t=504GKScJKm2l-UeexyZqQgFVn_FgSptg689RylKYtFI" alt="Profile photo of Austin Godfrey" style="width: 20rem;">
 
 **Austin Godfrey**
 </th>
@@ -21,7 +21,7 @@
 <tr>
 <th>
 
-![Profile photo of Nathan Weston](https://media.licdn.com/dms/image/C5603AQHeLVqgW66EHw/profile-displayphoto-shrink_800_800/0/1587418011288?e=1715817600&v=beta&t=YcVOB_FisBg90-mBGXfaMG40LhwTOtRHQvNFuNaivJQ){width="160" height="160"}
+<img src="https://media.licdn.com/dms/image/C5603AQHeLVqgW66EHw/profile-displayphoto-shrink_800_800/0/1587418011288?e=1715817600&v=beta&t=YcVOB_FisBg90-mBGXfaMG40LhwTOtRHQvNFuNaivJQ" alt="Profile photo of Nathan Weston" style="width: 20rem;">
 
 **Nathan Weston**
 </th>
@@ -32,7 +32,7 @@
 <tr>
 <th>
 
-![profile image](https://media.licdn.com/dms/image/D5603AQHO_649vx-AwA/profile-displayphoto-shrink_800_800/0/1705648577869?e=1715817600&v=beta&t=V1g0bWb94z386s3f0Xh5qRZczu0PUtxYEHbKjiqXJEg){width="156" height="156"}
+<img src="https://media.licdn.com/dms/image/D5603AQHO_649vx-AwA/profile-displayphoto-shrink_800_800/0/1705648577869?e=1715817600&v=beta&t=V1g0bWb94z386s3f0Xh5qRZczu0PUtxYEHbKjiqXJEg" alt="Profile image" style="width: 20rem;">
 
 **Tyler DeBruin**
 </th>
@@ -43,7 +43,7 @@
 <tr>
 <th>
 
-![profile image](https://media.licdn.com/dms/image/D5603AQGrwF52HNN4CQ/profile-displayphoto-shrink_200_200/0/1710384607696?e=1715817600&v=beta&t=vFx0l7H6VJ4o5wA5jgRNnrQ6Q6hc1F1VIdv6ON3jlK8){width="156" height="156"}
+<img src="https://media.licdn.com/dms/image/D5603AQGrwF52HNN4CQ/profile-displayphoto-shrink_200_200/0/1710384607696?e=1715817600&v=beta&t=vFx0l7H6VJ4o5wA5jgRNnrQ6Q6hc1F1VIdv6ON3jlK8" alt="Profile image" style="width: 20rem;">
 
 **Arthur Yin**
 </th>
