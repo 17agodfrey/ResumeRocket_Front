@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.login-form-container {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5% / 80%;
+  }
+
+  .popupSpring {
+    margin-bottom: 10em;
+  }
+  
+  .form-group {
+    margin-bottom: 2em;
+  }
+
+  .form-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* This creates vertical space between elements */
+  }
+
+  .internal-block {
+    margin-bottom: 3em;
+  }
+
+  .form-actions button {
+    padding: 1em 2em;
+    width: 100%;
+    background-color: crimson;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px
+  }
+    
+  .form-actions button:hover {
+    background-color: #333;
+  }
+
+  .divider {
+    flex-grow: 1;
+    height: 1px;
+    background-color: #d3d3d3;
+    border: none;
+  }
+
+  .dividerText {
+    padding: 0 10px;
+    color: #d3d3d3;
+    background-color: #fff;
+  }
+
+  .dividerContainer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 5px 0;
+  }

@@ -1,0 +1,12 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#yea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

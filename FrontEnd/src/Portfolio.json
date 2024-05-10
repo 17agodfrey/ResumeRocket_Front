@@ -1,0 +1,43 @@
+{
+    "layout": "basic",
+    "section1": {
+        "components": [
+            {
+                "component1": {
+                    "type": "introduction",
+                    "text": "Hi I'm a web developer, plz give job",
+                    "style": {
+                        "color": "red",
+                        "font-size": "20px"
+                    }
+                }
+            },
+            {
+                "component2": {
+                    "type": "social media",
+                    "facebook": "https://www.facebook.com/username",
+                    "twitter": "https://www.twitter.com/username", 
+                    "style": {
+                        "color": "blue",
+                        "font-size": "20px"
+                    }
+                }
+            }
+        ]
+    }, 
+    "section2": {
+        "components": [
+            {
+                "component1": {
+                    "type": "projects",
+                    "text": "Hi I'm a web developer, plz give job", 
+                    "style": {
+                        "color": "red",
+                        "font-size": "20px"
+                    }
+                }
+            }
+        ]
+    }
+    
+}

@@ -1,0 +1,30 @@
+#ResumeList_content {
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#resume_entry_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+#resume_entry_list_header {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr) ;
+    background-color: #ffffff; /* Grey background color */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow on edges */
+    padding: 10px 30px; /* Adjust padding as needed */
+}
+
+#resume_entry_list_header h2 {
+    text-align: center;
+}
+
+
